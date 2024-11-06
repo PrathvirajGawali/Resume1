@@ -1,4 +1,4 @@
-# Resume1
+# Resume
 
 ![alt text](images.jpeg)
 
